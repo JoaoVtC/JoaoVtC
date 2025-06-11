@@ -1,5 +1,4 @@
 ## Hello there 👋
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJ6d21zMG5yb2UyZmY2cWRtMmxqNWdsaHBhd3RxNGloNmZvZzRxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KDT5y0N5RIsoM/giphy.gif">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVtC&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
