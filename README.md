@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/JoaoVtC/JoaoVtC/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JoaoVtC/JoaoVtC/output/dist/github-contribution-grid-snake.svg)
 
 ###
