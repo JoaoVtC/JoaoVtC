@@ -3,8 +3,6 @@
 ###
 
 <div align="center">
-  <!-- GitHub Stats funcionando -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVtC&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub stats" />
 
   <!-- Commit Snake atualizado -->
   <br/>
@@ -27,8 +25,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <span>Currently learning</span>
 </div>
@@ -37,10 +33,10 @@
 
 <div align="left">
   <h3>📫 Connect with me</h3>
-  <a href="https://www.linkedin.com/in/joaovitor/" target="_blank">
+  <a href="[https://www.linkedin.com/in/joaovitor/](https://www.linkedin.com/in/joão-vitor-araujo-a941693a1?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="mailto:joaovitor@email.com">
+  <a href="mailto:joaovitorcaaraujo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
