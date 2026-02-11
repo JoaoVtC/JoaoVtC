@@ -3,12 +3,12 @@
 ###
 
 <div align="center">
-  <!-- GitHub Stats Graph (usei outra URL que funciona melhor) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVtC&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub stats"  />
+  <!-- GitHub Stats funcionando -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVtC&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub stats" />
 
-  <!-- Commit Snake -->
+  <!-- Commit Snake atualizado -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVtC&theme=dracula" height="130" alt="commit snake"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVtC&theme=dracula&hide_border=true" height="130" alt="commit snake" />
 </div>
 
 ###
@@ -27,7 +27,7 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <span>Currently learning</span>
