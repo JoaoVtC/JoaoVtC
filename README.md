@@ -33,7 +33,7 @@
 
 <div align="left">
   <h3>📫 Connect with me</h3>
-  <a href="https://www.linkedin.com/in/joaovitor/](https://www.linkedin.com/in/joão-vitor-araujo-a941693a1?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-araujo-a941693a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:joaovitorcaaraujo@gmail.com">
